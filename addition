@@ -12,3 +12,9 @@ if (i > 10)
 {
  a = a * 4
 }
+
+Subtraction
+if (i > 10)
+{
+ a = a - 4
+}
